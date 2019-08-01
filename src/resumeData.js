@@ -1,25 +1,25 @@
 let resumeData = {
-  name: "Evan Feenstra",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
-  skypeid: "Your skypeid",
+  name: "Bridhett Puerto-Ulloa",
+  role: "University of Washington Student, Sophomore",
+  //linkedinId:"evanfeenstra",
+  //skypeid: "Your skypeid",
   roleDescription: "asdf  blah blahI like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
   socialLinks:[
-      {
-        name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
-        className:"fa fa-linkedin"
-      },
+      //{
+        //name:"linkedin",
+        //url:"https://www.linkedin.com/in/evanfeenstra",
+        //className:"fa fa-linkedin"
+      //},
       {
         name:"github",
-        url:"http://github.com/",
+        url:"http://github.com/bridhett",
         className:"fa fa-github"
       },
-      {
-        name:"skype",
-        url:"http://skype.com",
-        className:"fa fa-skype"
-      }
+      //{
+        //name:"skype",
+        //url:"http://skype.com",
+        //className:"fa fa-skype"
+      //}
     ],
   aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",
   address:"Seattle, Washington",
@@ -80,12 +80,12 @@ let resumeData = {
       fullDescription:"this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app "
     },
     {
-      name:"asdfasdfasf",
-      description:"mobileapp",
-      imgurl:"images/portfolio/weatherer.png",
-      title:"Something",
-      githubLink:"https://github.com",
-      fullDescription:"this is a longer description about this app"
+      name:"memearch",
+      description:"Search for memes",
+      imgurl:"images/portfolio/meme.png",
+      title:"memearch",
+      githubLink:"https://github.com/bridhett/memearch",
+      fullDescription:"This application allows for the user to search up memes using the Giphy API."
     },
     {
       name:"project3",
